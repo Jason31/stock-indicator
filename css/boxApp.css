@@ -1,0 +1,26 @@
+.fa-caret-up{
+	margin-top: 3px;
+	margin-left: 3px;
+
+}
+.today{
+	margin-left: 10px;
+}
+.d-flex{
+	width: 250px;
+	background:;
+}
+.equallng{
+	display: none;
+}
+h3{
+	font-family: verdana;
+	
+}
+.today, .yesterday{
+	font-family: verdana;
+	font-size: 14px;
+}
+.yesterday{
+	background:;
+}
